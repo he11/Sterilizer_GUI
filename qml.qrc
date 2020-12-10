@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainPage.qml</file>
+        <file>PageScreen.qml</file>
+        <file>TopBanner.qml</file>
+        <file>MenuButton.qml</file>
+        <file>DateBar.qml</file>
+        <file>ManualTimeSettingPage.qml</file>
+        <file>TitleBar.qml</file>
+        <file>SingleTumbler.qml</file>
+        <file>TimeSetupTumbler.qml</file>
+        <file>ErrorPopup.qml</file>
+        <file>StepTimeSettingPage.qml</file>
+        <file>ExitButton.qml</file>
+    </qresource>
+</RCC>
